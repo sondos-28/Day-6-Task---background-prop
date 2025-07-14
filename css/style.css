@@ -64,3 +64,6 @@ footer{
 footer h5,h6{
     color: white;
 }
+nav button{
+    cursor: pointer;
+}
